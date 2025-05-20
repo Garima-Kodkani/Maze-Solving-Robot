@@ -11,6 +11,7 @@ This project is developed based on the IIT Bombay problem statement "Meshmerise"
 - Jumper Cables
 - LED
 
+For a more compact and fast robot, designing your own PCB is recommended as we did!
 
 ## Working of the bot
 https://github.com/user-attachments/assets/55a7cb95-8f4d-4ad6-9e2f-803f55926bea
